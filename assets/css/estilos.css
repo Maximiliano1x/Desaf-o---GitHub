@@ -24,7 +24,12 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #d6290b;
+  transition: color 0.3s ease;
+}
+
+#Contacto form label:hover {
+  color: #a61c0b; /* Cambiamos el color al pasar el ratón por encima */
 }
 
 @media (max-width: 768px) {
