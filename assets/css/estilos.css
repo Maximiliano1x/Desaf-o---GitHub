@@ -29,7 +29,7 @@ body {
 }
 
 #Contacto form label:hover {
-  color: #a61c0b; /* Cambiamos el color al pasar el ratón por encima */
+  color: #0ba639;
 }
 
 @media (max-width: 768px) {
